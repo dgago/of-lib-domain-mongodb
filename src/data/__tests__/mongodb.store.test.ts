@@ -1,5 +1,5 @@
-import { MongoDbStore } from "../mongodb.store";
-import { MongoDbContext } from "../context.store";
+import { MongoDbStore } from "../mongodb-store";
+import { MongoDbContext } from "../mongodb-context";
 import { Entity } from "of-lib-domain";
 
 class Test extends Entity<string> {
