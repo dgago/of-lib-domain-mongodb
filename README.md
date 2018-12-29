@@ -1,4 +1,4 @@
-# node-lib [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# of-lib-domain-mongodb [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
 >
 
@@ -11,9 +11,7 @@ $ npm install --save https://github.com/dgago/of-lib-domain-mongodb.git
 ## Usage
 
 ```ts
-import { sum } from "of-lib-domain-mongodb";
-
-const res = sum(1, 2);
+Not yet.
 ```
 
 ## License
